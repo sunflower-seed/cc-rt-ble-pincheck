@@ -1,3 +1,13 @@
+/**
+ * ccrtble-pincheck.java
+ * Derives the PIN from the serial badge of an eQ-3 thermostat
+ * 
+ * License: GPLv3
+ *
+ * @author: Phil <development@beph.de>
+ * 
+ */
+
 public class ccrtble-pincheck {
 
     /**
